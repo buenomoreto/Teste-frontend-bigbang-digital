@@ -1,0 +1,313 @@
+{
+  "establishments": [
+    {
+      "name": "Mercadinho da Cidade",
+      "color": "#FDFF9D",
+      "id": 0,
+      "transactions": [
+        {
+          "type": "boleto",
+          "received": {
+            "amount": 100,
+            "origin": "BigBang",
+            "destiny": "Mercadinho da Cidade"
+          },
+          "sent": {
+            "amount": 3000,
+            "origin": "Mercadinho da Cidade",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "pix",
+          "received": {
+            "amount": 1000,
+            "origin": "BigBang",
+            "destiny": "Mercadinho da Cidade"
+          },
+          "sent": {
+            "amount": 500,
+            "origin": "Mercadinho da Cidade",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "cartão",
+          "received": {
+            "amount": 1000,
+            "origin": "BigBang",
+            "destiny": "Mercadinho da Cidade"
+          },
+          "sent": {
+            "amount": 1000,
+            "origin": "Mercadinho da Cidade",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "boleto",
+          "received": {
+            "amount": 1500,
+            "origin": "Mercadinho da Cidade",
+            "destiny": "BigBang"
+          },
+          "sent": {
+            "amount": 100,
+            "origin": "BigBang",
+            "destiny": "Mercadinho da Cidade"
+          }
+        },
+        {
+          "type": "pix",
+          "received": {
+            "amount": 1500,
+            "origin": "Mercadinho da Cidade",
+            "destiny": "BigBang"
+          },
+          "sent": {
+            "amount": 500,
+            "origin": "BigBang",
+            "destiny": "Mercadinho da Cidade"
+          }
+        },
+        {
+          "type": "cartão",
+          "received": {
+            "amount": 3000,
+            "origin": "Mercadinho da Cidade",
+            "destiny": "BigBang"
+          },
+          "sent": {
+            "amount": 1000,
+            "origin": "BigBang",
+            "destiny": "Mercadinho da Cidade"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tenda Nostra",
+      "color": "#FF9D9D",
+      "id": 1,
+      "transactions": [
+        {
+          "type": "boleto",
+          "received": {
+            "amount": 200,
+            "origin": "BigBang",
+            "destiny": "Tenda Nostra"
+          },
+          "sent": {
+            "amount": 1300,
+            "origin": "Tenda Nostra",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "pix",
+          "received": {
+            "amount": 1500,
+            "origin": "BigBang",
+            "destiny": "Tenda Nostra"
+          },
+          "sent": {
+            "amount": 3200,
+            "origin": "Tenda Nostra",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "cartão",
+          "received": {
+            "amount": 800,
+            "origin": "BigBang",
+            "destiny": "Tenda Nostra"
+          },
+          "sent": {
+            "amount": 500,
+            "origin": "Tenda Nostra",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "boleto",
+          "received": {
+            "amount": 350,
+            "origin": "Tenda Nostra",
+            "destiny": "BigBang"
+          },
+          "sent": {
+            "amount": 350,
+            "origin": "BigBang",
+            "destiny": "Tenda Nostra"
+          }
+        },
+        {
+          "type": "pix",
+          "received": {
+            "amount": 600,
+            "origin": "Tenda Nostra",
+            "destiny": "BigBang"
+          },
+          "sent": {
+            "amount": 200,
+            "origin": "BigBang",
+            "destiny": "Tenda Nostra"
+          }
+        },
+        {
+          "type": "cartão",
+          "received": {
+            "amount": 1400,
+            "origin": "Tenda Nostra",
+            "destiny": "BigBang"
+          },
+          "sent": {
+            "amount": 500,
+            "origin": "BigBang",
+            "destiny": "Tenda Nostra"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Farmácia Um",
+      "color": "#C8FF9D",
+      "id": 2,
+      "transactions": [
+        {
+          "type": "boleto",
+          "received": {
+            "amount": 500,
+            "origin": "BigBang",
+            "destiny": "Farmácia Um"
+          },
+          "sent": {
+            "amount": 1100,
+            "origin": "Farmácia Um",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "pix",
+          "received": {
+            "amount": 1000,
+            "origin": "BigBang",
+            "destiny": "Farmácia Um"
+          },
+          "sent": {
+            "amount": 1200,
+            "origin": "Farmácia Um",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "cartão",
+          "received": {
+            "amount": 1200,
+            "origin": "BigBang",
+            "destiny": "Farmácia Um"
+          },
+          "sent": {
+            "amount": 1300,
+            "origin": "Farmácia Um",
+            "destiny": "BigBang"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Academia Body",
+      "color": "#AB9DFF",
+      "id": 3,
+      "transactions": [
+        {
+          "type": "boleto",
+          "received": {
+            "amount": 500,
+            "origin": "BigBang",
+            "destiny": "Academia Body"
+          },
+          "sent": {
+            "amount": 900,
+            "origin": "Academia Body",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "pix",
+          "received": {
+            "amount": 800,
+            "origin": "BigBang",
+            "destiny": "Academia Body"
+          },
+          "sent": {
+            "amount": 1300,
+            "origin": "Academia Body",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "cartão",
+          "received": {
+            "amount": 1000,
+            "origin": "BigBang",
+            "destiny": "Academia Body"
+          },
+          "sent": {
+            "amount": 1400,
+            "origin": "Academia Body",
+            "destiny": "BigBang"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ShopOnline",
+      "color": "#FF9DEF",
+      "id": 4,
+      "transactions": [
+        {
+          "type": "boleto",
+          "received": {
+            "amount": 300,
+            "origin": "BigBang",
+            "destiny": "ShopOnline"
+          },
+          "sent": {
+            "amount": 500,
+            "origin": "ShopOnline",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "pix",
+          "received": {
+            "amount": 500,
+            "origin": "BigBang",
+            "destiny": "ShopOnline"
+          },
+          "sent": {
+            "amount": 700,
+            "origin": "ShopOnline",
+            "destiny": "BigBang"
+          }
+        },
+        {
+          "type": "cartão",
+          "received": {
+            "amount": 700,
+            "origin": "BigBang",
+            "destiny": "ShopOnline"
+          },
+          "sent": {
+            "amount": 700,
+            "origin": "ShopOnline",
+            "destiny": "BigBang"
+          }
+        }
+      ]
+    }
+  ],
+  "total_balance": 34500
+}
